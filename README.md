@@ -21,8 +21,4 @@ https://www.imlam.com/start.html
 
 ![超优惠充值话费][1]
 
-## ⭐ 感谢支持
-
-[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ok1991/v2ray)
-
   [1]: https://pic2.zhimg.com/80/v2-c98dd0b4e9e849cd5e4c395993889371_720w.jpg
