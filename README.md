@@ -1,4 +1,4 @@
-Vmess/SSR/Trojan高速节点🚀Shadowrocket🐱Clash、V2rayN、WinXray🆓免费订阅地址分享
+Vmess/SS/SSR/Trojan高速节点🚀Shadowrocket🐱Clash、V2rayN、WinXray🆓免费订阅地址分享
 
 ⚠️🔞使用科学代理上网工具需要自律，⛔🙅不轻易相信外网一些不当言论，🤫🈲更不要发布过激言论❗❗❗大家要有足够的自我分辨能力，抨击一些不当言论，切记一切要护国❗爱国❗只有祖国才能真正意义上保护你。
 
@@ -10,7 +10,7 @@ Ps:iOS端打开小火箭右上角小＋号，类型选择Subscribe，把订阅�
 
 选择订阅=>订阅设置=>添加订阅链接=>确认保存=>更新订阅
 
-个人筛选整理的香港、台湾、韩国、日本、新加坡 Vmess+SSR+Trojan 高速节点，订阅链接URL直接复制到App订阅使用，不定期更新。
+个人筛选整理的香港、台湾、韩国、日本、新加坡 Vmess+SS+SSR+Trojan 高速节点，订阅链接URL直接复制到App订阅使用，不定期更新。
 
 已新增支缓Clash订阅！
 
